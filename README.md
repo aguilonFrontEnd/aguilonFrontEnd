@@ -29,7 +29,7 @@ Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del cód
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50px">  
 
 <!-- Laravel -->
-<img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" width="50px">  
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968671.png" width="50px">    
 
 
 -   <br>--
