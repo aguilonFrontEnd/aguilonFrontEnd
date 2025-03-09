@@ -13,7 +13,7 @@ Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del cód
 <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50px"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50px"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50px"> 
-<img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="50px"> 
+<img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" width="50px"> 
 
 -   <br>--
 
