@@ -23,14 +23,13 @@ Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del cód
   <!-- Bootstrap -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px">
   <!-- Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="50px">
 </p>
 
-
--   <br>--
+   <br>--
 
 🔎 Un poco sobre mí:
 - 📍 Ubicación: Cali, Colombia 🇨🇴     <br>
 - 🎂 Edad: 23 años     <br>
 - 📧 Email: [aguilondevelopsoft@gmail.com](mailto:aguilondevelopsoft@gmail.com)   <br><br>
-- 📚 Busco aprender todos los días y actualizarme en este mundo en constante evolución. 😊
+📚 Busco aprender todos los días y actualizarme en este mundo en constante evolución. 😊
