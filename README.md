@@ -6,7 +6,7 @@
 
 <br>
 
-🛠️ Tecnologías que uso 🛠️ <br>
+🛠️ Tecnologías en uso 🛠️ <br>
 <p align="left">
   <!-- HTML -->
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="50px">
