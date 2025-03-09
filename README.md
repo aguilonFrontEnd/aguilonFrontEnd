@@ -15,7 +15,7 @@ Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del cód
   <!-- JavaScript -->
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px">
   <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50px">
   <!-- Figma -->
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50px">
   <!-- SQL -->
