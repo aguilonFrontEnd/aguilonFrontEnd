@@ -6,7 +6,7 @@ Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del cód
 
 <br>
 
-🛠️ Tecnologías que uso 🛠️
+🛠️ Tecnologías que uso 🛠️ <br>
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="50px">
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50px"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px"> 
@@ -14,8 +14,6 @@ Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del cód
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50px"> 
 <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50px"> 
 <img src="https://cdn-icons-png.flaticon.com/128/919/919825.png" width="50px"> 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50px">
-
 
 -   <br>--
 
