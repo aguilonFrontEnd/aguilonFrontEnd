@@ -7,13 +7,30 @@ Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del cód
 <br>
 
 🛠️ Tecnologías que uso 🛠️ <br>
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="50px">
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50px"> 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px"> 
-<img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50px"> 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50px"> 
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50px"> 
-<img src="https://cdn-icons-png.flaticon.com/128/4492/4492311.png" width="50px"> 
+<!-- HTML -->
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="50px">  
+
+<!-- CSS -->
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50px">  
+
+<!-- JavaScript -->
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px">  
+
+<!-- Tailwind CSS -->
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968671.png" width="50px">  
+
+<!-- Figma -->
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50px">  
+
+<!-- SQL -->
+<img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" width="50px">  
+
+<!-- Bootstrap -->
+<img src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" width="50px">  
+
+<!-- Laravel -->
+<img src="https://cdn-icons-png.flaticon.com/128/919/919841.png" width="50px">  
+
 
 -   <br>--
 
