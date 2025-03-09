@@ -1,7 +1,8 @@
 👋 ¡Hola, soy Alejandro Aguilon Buitrago | 🖥️ Front-End Developer |
 
-🚀 Construyo experiencias web optimizadas, responsivas y dinámicas.  
-Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del código, asegurando productos de alta calidad para el usuario final.
+🚀 Construyo experiencias web 🌐 optimizadas, dinámicas y responsivas, enfocándome en la eficiencia ⚡
+ del código, la accesibilidad ♿ y la escalabilidad 📈, asegurando productos de alta calidad ⭐ mientras sigo aprendiendo
+ 📚 e implementando las mejores prácticas en desarrollo.
 
 <br>
 
