@@ -1,5 +1,4 @@
-👋 ¡Hola, soy Alejandro Aguilon Buitrago 👷‍♂️
-🖥️ Front-End Developer |
+👋 ¡Hola, soy Alejandro Aguilon Buitrago | 🖥️ Front-End Developer |
 
 🚀 Construyo experiencias web optimizadas, responsivas y dinámicas.  
 Mi enfoque está en el rendimiento, la accesibilidad y la escalabilidad del código, asegurando productos de alta calidad para el usuario final.
