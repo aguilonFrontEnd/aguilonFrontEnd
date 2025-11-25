@@ -29,7 +29,8 @@ I love combining **software development + data analytics** to create application
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="45px"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canva_logo.svg" width="90px"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968709.png" width="45px"/>
+
 
 </p>
 
@@ -40,7 +41,7 @@ I love combining **software development + data analytics** to create application
 - 📍 I from **Cali, Colombia 🇨🇴**  
 - 🎂 **24 years old**  
 - 📧 **aguilondevelopsoft@gmail.com**
-- 📱 ** +57 318 411 1790**
+- 📱 **+57 318 411 1790**
     
 
 I enjoy building real, meaningful, production-ready solutions — not just pretty screens.  
