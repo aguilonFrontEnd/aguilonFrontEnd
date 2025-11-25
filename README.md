@@ -1,36 +1,31 @@
-👋 ¡Hola, soy Alejandro Aguilon Buitrago | 🖥️ Front-End Developer |
+<!-- ===== HERO ===== -->
 
-🚀 Construyo experiencias web 🌐 optimizadas, dinámicas y responsivas, enfocándome en la eficiencia 
- del código, la accesibilidad  y la escalabilidad , asegurando productos de alta calidad mientras sigo aprendiendo
-  e implementando las mejores prácticas en desarrollo⭐
+<h1 align="center">👋 Hi, I'm <strong>Alejandro Aguilón Buitrago</strong></h1>
+<h3 align="center">🧑‍💻 Software Developer & Data Analyst</h3>
 
-<br>
-
-🛠️ Tecnologías en uso 🛠️ <br>
-<p align="left">
-  <!-- HTML -->
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width="50px">
-  <!-- CSS -->
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968242.png" width="50px">
-  <!-- JavaScript -->
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width="50px">
-  <!-- Tailwind CSS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="50px">
-  <!-- Figma -->
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968705.png" width="50px">
-  <!-- SQL -->
-  <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" width="50px">
-  <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50px">
-  <!-- Laravel -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="50px">
+<p align="center">
+  🚀 I build <strong>modern, fast and scalable web applications</strong> – 
+  focused on clean code, performance, accessibility and real business value.<br/>
+  I love combining <strong>software development + data analytics</strong> to create 
+  products that look great, feel smooth and make smart decisions. ✨
 </p>
 
-   <br>--
+<p align="center">
+  <em>Always learning. Always improving. Always shipping.</em> ⚡
+</p>
 
-🔎 Un poco sobre mí:
-- 📍 Ubicación: Cali, Colombia 🇨🇴     <br>
-- 🎂 Edad: 23 años     <br>
-- 📧 Email: [aguilondevelopsoft@gmail.com](mailto:aguilondevelopsoft@gmail.com)   <br><br>
+<br/>
 
-📚 Busco aprender todos los días y actualizarme en este mundo en constante evolución. 😊
+---
+
+<!-- ===== TECH ICON BELT ===== -->
+
+<h2 align="center">🛠️ Tech I work with</h2>
+
+<p align="center">
+  <!-- HTML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px" alt="HTML5"/>
+  <!-- CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px" alt="CSS3"/>
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.n
