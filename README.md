@@ -1,21 +1,19 @@
-# 👋 ¡Hola! Soy Alejandro Aguilón Buitrago  
-### 🧑‍💻 Desarrollador de software | 📊 Analista de datos
+# 👋 Hi! I'm Alejandro Aguilón Buitrago  
+### 🧑‍💻 Software Developer | 📊 Data Analyst
 
-🚀 Desarrollo **aplicaciones web modernas, rápidas y escalables**, siempre priorizando:
+🚀 I build **modern, fast, and scalable web applications**, always focusing on:
 
-- Código limpio y mantenible  
-- Buenas prácticas y estándares profesionales  
-- Rendimiento y accesibilidad  
-- Diseño atractivo y experiencia fluida  
-- Decisiones basadas en datos  
+- Clean, maintainable code  
+- Professional development standards  
+- Performance and accessibility  
+- Smooth UX and polished UI  
+- Data-driven decision making  
 
-Me apasiona combinar **desarrollo de software + análisis de datos**, creando productos con lógica sólida, interfaces agradables y resultados inteligentes. ✨
-
-Siempre aprendiendo. Siempre mejorando. Siempre construyendo. ⚡  
+I love combining **software development + data analytics** to create applications with strong logic, beautiful interfaces, and intelligent results. ✨  Always learning. Always improving. Always building. ⚡  
 
 ---
 
-## 🛠️ Tecnologías con las que trabajo
+## 🛠️ Technologies I work with
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
@@ -26,7 +24,7 @@ Siempre aprendiendo. Siempre mejorando. Siempre construyendo. ⚡
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px"/>
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="45px"/>
@@ -36,23 +34,22 @@ Siempre aprendiendo. Siempre mejorando. Siempre construyendo. ⚡
 
 ---
 
-## 📌 Sobre mí
+## 📌 About me
 
-- 📍 Vivo en **Cali, Colombia 🇨🇴**  
-- 🎂 Tengo **23 años**  
+- 📍 I from **Cali, Colombia 🇨🇴**  
+- 🎂 **24 years old**  
 - 📧 **aguilondevelopsoft@gmail.com**  
 
-Me enfoco en crear soluciones reales, estructuradas y pensadas para usarse en el mundo real — no solo para verse bonitas.  
-Soy un dev de los que **aprenden todos los días**, que mejora procesos, que entiende el negocio y que siempre quiere entregar algo mejor que ayer. 🚀
+I enjoy building real, meaningful, production-ready solutions — not just pretty screens.  
+I’m a developer who **learns every day**, improves processes, understands the business, and aims to deliver something better than yesterday. 🚀  
 
 ---
 
-## 🎯 Actualmente enfocado en:
+## 🎯 Currently focused on
 
-- Construcción de aplicaciones full-stack con **Laravel, Astro y APIs**  
-- Dashboards profesionales en **Power BI**  
-- ETL, SQL avanzado y automatización con Python  
-- Arquitectura limpia, escalabilidad y buenas prácticas  
+- Full-stack applications using **Laravel, Astro, REST APIs**  
+- Professional dashboards in **Power BI**  
+- ETL, advanced SQL, and automation with Python  
+- Clean architecture, scalability, and best practices  
 
 ---
-
