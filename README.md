@@ -28,7 +28,6 @@ I love combining **software development + data analytics** to create application
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px"/>
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="45px"/>
-  <img src="https://cdn-icons-png.flaticon.com/128/5968/5968875.png" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
 </p>
 
