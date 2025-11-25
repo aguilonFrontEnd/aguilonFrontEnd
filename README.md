@@ -29,7 +29,7 @@ I love combining **software development + data analytics** to create application
   <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vert_blue-transparent.png" width="45px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="45px"/>
-  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" width="55px"/>
+  <img src="https://1000marcas.net/wp-content/uploads/2020/01/Canva-logo.png" width="70px"/>
 
 
 
